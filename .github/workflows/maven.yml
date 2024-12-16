@@ -20,7 +20,7 @@ jobs:
     steps:
     - name: Start Tunnel
       uses: LambdaTest/LambdaTest-tunnel-action@v1
-      id: "3465205"
+      id: "LT-LP-244-f6zyupwiflu"
       with:
          user: anubhavb@lambdatest.com
          accessKey: jfIpDzBoFpX3ZMxwDCOsz1b8qlvo8npozRHsLqpeifQoOwiLDK
