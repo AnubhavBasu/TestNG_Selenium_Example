@@ -20,11 +20,11 @@ jobs:
     steps:
     - name: Start Tunnel
       uses: LambdaTest/LambdaTest-tunnel-action@v1
-      id: LT-LP-244-bdxpxkc57eb
+      id: "3465205"
       with:
          user: anubhavb@lambdatest.com
          accessKey: jfIpDzBoFpX3ZMxwDCOsz1b8qlvo8npozRHsLqpeifQoOwiLDK
-         tunnelName: "LT-LP-244-bdxpxkc57eb"
+         tunnelName: "GitHubActionsTunnel"
   build:
 
     runs-on: ubuntu-latest
